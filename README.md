@@ -19,4 +19,4 @@ Demonstrates how to provide a builtin with a complex signature (i.e. *args, **kw
 
 ## multi_module
 Demonstrates how to support scripts with multiple modules, and shows an example of modules loaded from
-both the file system and from strings embedded in the host app.
+both the file system and from strings embedded in the host app. It also shows how to detect circular dependencies.
